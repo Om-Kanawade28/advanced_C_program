@@ -10,4 +10,8 @@ void main()
     {
         printf("the value of p[i]=%d and its address=%d\n",*p[i],p[i]);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f5b5bb4b41ccfb20b151fa5bc39aa56860929fbe
