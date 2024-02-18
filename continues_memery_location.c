@@ -6,5 +6,8 @@ void main()
     for(i=0;i<=5;i++)
     {
         printf("the adress of a[%d] is %u",i,&a[i]);
+        printf("the adress of a[%d] is %u",i,a+1);
+        printf("the  a[%d] is %d\n",i,*(a+i));
+        printf("the  a[%d] is %d\n",i,a[i]);
       
 }
