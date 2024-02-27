@@ -4,7 +4,7 @@
 char *longestCommonPrefix(char arr[][100], int N) {
     static char result[100];
     if(N <= 0) {
-        strcpy(result, "-1");
+        strcpy(result, "-1");// No strings, so no common prefix
         return result;
     }
     
