@@ -25,8 +25,4 @@ Write a C program to input two times, add them, and
     }
     return 0;
 
-<<<<<<< HEAD
  }
-=======
- }
->>>>>>> cd03cb0d27486c8d9337dae57e3e1ad862adfca3
