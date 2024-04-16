@@ -8,7 +8,7 @@ int main()
     int ch;
     while(1)
     {
-        printf("\n*************MENU****************\n");
+        printf("\n************MENU****************\n");
         printf("1.lenth\n");
         printf("2.copy\n");
         printf("3.lowercase\n");
