@@ -10,6 +10,7 @@ printf("enter the string:-");
 gets(str);
 printf("your string:-%s",str);
 printf("toupper string:-");
+//predefined toupper 
 touopper1(str);
 
     return 0;
