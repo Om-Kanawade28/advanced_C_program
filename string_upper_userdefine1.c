@@ -9,6 +9,7 @@ int main()
     printf("your toupper string:-");
     toupper1(str);
     return 0;
+//t
 }
 void toupper1(char str[10]) {
     for(int i = 0; str[i] != '\0'; i++) {
