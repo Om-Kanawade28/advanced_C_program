@@ -27,6 +27,7 @@ void compare(char str[20],char str1[20])  {
       else
          {
           printf("string is not same");
+//r
           }
       }
 }
