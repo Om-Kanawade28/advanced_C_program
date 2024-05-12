@@ -15,6 +15,7 @@ touopper1(str);
 
     return 0;
 }
+//to upper functtiom
 void touopper1(char str[]) {
     for(int i=0;str[i]!='\0';i++)
       printf("%c",toupper(str[i]));
