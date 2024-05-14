@@ -28,7 +28,7 @@ void reverseword(char str[]) {
 int main()
 { 
     char str[20];
-
+//enter string 
     printf("Enter the string:-");
     scanf("%s",&str);
    reverseword(str);
