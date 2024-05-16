@@ -9,6 +9,7 @@ int main()
     printf("your lower string:-");
     tolower1(str);
     return 0;
+#
 }
 void tolower1(char str[]) {
     for(int i=0;str[i]!='\0';i++)
