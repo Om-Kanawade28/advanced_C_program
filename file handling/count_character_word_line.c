@@ -2,6 +2,7 @@
 int main()
 { 
     FILE *fp;
+//char ch
     char ch;
     int word = 0,line = 0,chr = 0;
     fp = fopen("text.txt","r");
