@@ -7,7 +7,7 @@ char *longestCommonPrefix(char arr[][100], int N) {
         strcpy(result, "-1");// No strings, so no common prefix
         return result;
     }
-    
+    //
     int minLen = strlen(arr[0]);
     for(int i = 1; i < N; i++) {
         int len = strlen(arr[i]);
