@@ -43,3 +43,4 @@ int main() {
     printf("Longest common prefix: %s\n", prefix);
     return 0;
 }
+//
